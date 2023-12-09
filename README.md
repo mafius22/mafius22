@@ -4,6 +4,9 @@
 - Uczę się korzystać z GitHub :wink:
 - [Kliknij](https://mafius22.github.io/) i dowiedz się dlaczego warto uprawiać sport.:running::soccer:
 
+Artykuł
+- [Link do repozytorium](https://github.com/mafius22/elevation_mapping_cupy)
+- [Linkd do strony artukułu](https://paperswithcode.com/paper/mem-multi-modal-elevation-mapping-for)
 
 
 
