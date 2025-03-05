@@ -1,4 +1,4 @@
-### Cześć Wszystkim 👋
+### Cześć 
 
 
 
